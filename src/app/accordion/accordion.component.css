@@ -1,0 +1,37 @@
+.container{
+    margin:0 auto;
+    padding: 20px;
+    /* width: fit-content; */
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.row{
+    overflow: hidden;
+}
+.btn{
+    border-bottom: 4px solid black;
+    box-shadow: inset 0px 0px 7px -2px #000000;
+}
+.col-7{
+    border: 1px solid black;
+    float: right;
+}
+.myRow {
+    border: 1px solid black;
+    margin:0 35px 0 15px ;  
+}
+.mytextarea{
+    border: 2px solid black;
+}
+
+.custom-accordion .p-accordion-header {
+    border: 1px solid black; 
+    color: black;
+    text-decoration: none;
+  }
+  
+  .custom-accordion .p-accordion-content {
+    border: 2px solid black; 
+    overflow: hidden;
+    color: black;
+  }
